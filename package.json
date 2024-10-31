@@ -4,7 +4,7 @@
   "description": "Chat application for local usage",
   "repository": {
     "type": "git",
-    "url": "https://github.com/sudheeshshetty/Chat"
+    "url": "https://github.com/NotKRhero/Chat"
   },
   "main": "server.js",
   "scripts": {
@@ -25,7 +25,7 @@
       "port": "8080"
     },
     "db": {
-      "url": "mongodb://localhost:27017/chat"
+      "url": "mongodb+srv://KRhero:@#gamingHERO@cluster0.w2kth.mongodb.net/"
     }
   }
 }
